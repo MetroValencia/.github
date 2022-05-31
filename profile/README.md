@@ -4,7 +4,7 @@ Es un proyecto de Ciclo Formativo de Grado Superior de Desarrollo de Aplicacione
 
 Este proyecto no tiene relación directa con FGV, todos los datos usados en este proyecto son públicos.
 
-Todos los repositorios usan la licencia EUPL-1.2, por lo que cualquier persona o organización pública o privada puede clonar y usar todas las funcionalidades.
+Todos los repositorios usan la licencia [EUPL-1.2](https://github.com/MetroValencia/.github/blob/main/LICENSE), por lo que cualquier persona o organización pública o privada puede clonar y usar todas las funcionalidades.
 <!--
 
 **Here are some ideas to get you started:**
