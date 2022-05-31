@@ -2,7 +2,9 @@
 
 Es un proyecto de Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (**CFGS DAW**) para el desarrollo de una API que recolecta datos de la web de Ferrocarrils de la Generalitat Valenciana (**FGV**)
 
-Este proyecto no tiene relación directa con FGV, todos los datos usados en este proyecto son públicos
+Este proyecto no tiene relación directa con FGV, todos los datos usados en este proyecto son públicos.
+
+Todos los repositorios usan la licencia EUPL-1.2, por lo que cualquier persona o organización pública o privada puede clonar y usar todas las funcionalidades.
 <!--
 
 **Here are some ideas to get you started:**
